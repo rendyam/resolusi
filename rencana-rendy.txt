@@ -1,3 +1,4 @@
 Rencana Rendy
 1. Dapat 5 klien di 2024
 2. Selesaikan wordpress course
+3. Fundamental Data Struktur
