@@ -1,6 +1,8 @@
 Rencana Rendy
 1. Dapat 5 klien di 2024
 2. Selesaikan wordpress course
+coba-fitur-2
+  - belajar di youtube aja yang gratis
   - wordpress brad schiff
   - tambah juga wordpress for business
 3. Fundamental Data Struktur
